@@ -1,0 +1,41 @@
+@import url(https://fonts.googleapis.com/css?family=Great+Vibes);
+img {
+  width: 5%;
+}
+
+.title-container {
+  font-family: 'Great Vibes', cursive;
+  text-align: center;
+  font-size: 5em;
+  margin-top: 10%;
+  margin-bottom: 10%;
+  color: #718ca7;
+}
+
+.social-container {
+  width: 800px;
+  text-align: right;
+}
+
+.quote-container {
+  width: 800px;
+  padding: 15px;
+}
+
+.quote {
+  color: #16B6DF;
+  font-size: 3em;
+}
+
+.author {
+  text-align: right;
+  font-size: 1.5em;
+  color: #718ca7;
+  padding-top: 25px;
+}
+
+.button-container {
+  text-align: center;
+  width: 500px;
+  margin-top: 25px;
+}
